@@ -1,0 +1,18 @@
+http://feeds.bbci.co.uk/news/rss.xml
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+http://newsfeed.zeit.de/index "Germany"
+https://rss.focus.de/fol/XML/rss_folnews.xml "Germany"
+https://www.faz.net/rss/aktuell/ "Germany"
+http://www.tagesschau.de/xml/rss2 "Germany"
+https://rss.dw.com/rdf/rss-en-all "Germany"
+https://www.france24.com/en/rss "France"
+https://www.mediapart.fr/articles/feed "France"
+https://www.parisstaronline.com/feed "France"
+https://www.lemonde.fr/rss/une.xml "France"
+https://www.nouvelobs.com/a-la-une/rss.xml "France"
+https://www.francetvinfo.fr/titres.rss "France"
+https://www.huffingtonpost.fr/feeds/index.xml "France"
+https://www.ladepeche.fr/rss.xml "France"
+https://www.diplomatie.gouv.fr/spip.php?page=backend-fd "France"
+https://www.sudouest.fr/essentiel/rss.xml "France"
+https://www.ouest-france.fr/rss-en-continu.xml "France"

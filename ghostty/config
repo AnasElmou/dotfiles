@@ -1,0 +1,39 @@
+window-padding-color = background
+# window-padding-color = extend
+# maximize = true
+fullscreen = true
+gtk-custom-css = "~/.config/ghostty/custom.css"
+theme = dark:nord,light:nord-light
+
+# macos-non-native-fullscreen = visible-menu
+macos-titlebar-style = hidden
+# window-decoration = none
+
+macos-option-as-alt=true
+# key-remap = super=alt
+
+# command = "~/.config/ghostty/boot.sh"
+
+# keybind = command+one=unbind
+# keybind = command+two=unbind
+# keybind = command+three=unbind
+# keybind = command+four=unbind
+# keybind = command+five=unbind
+# keybind = command+six=unbind
+# keybind = command+seven=unbind
+# keybind = command+eight=unbind
+# keybind = command+nine=unbind
+# keybind = command+zero=unbind
+#
+#
+# keybind = command+h=unbind
+# keybind = command+j=unbind
+# keybind = command+k=unbind
+# keybind = command+l=unbind
+#
+# keybind = command+w=unbind
+# keybind = command+d=unbind
+# keybind = command+shift+d=unbind
+# keybind = command+s=unbind
+# keybind = command+t=unbind
+# keybind = command+tab=unbind
