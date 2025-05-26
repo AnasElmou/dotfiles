@@ -19,7 +19,4 @@ vim.keymap.set("n", "U", "<C-r>")
 vim.keymap.set("n", "<C-l>", "w")
 vim.keymap.set("n", "<C-h>", "b")
 
-vim.keymap.set("n", "<C-k>", "4k")
-vim.keymap.set("n", "<C-j>", "4j")
-
 -- figure out indentin

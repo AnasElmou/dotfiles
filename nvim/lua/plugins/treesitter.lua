@@ -28,6 +28,7 @@ return {
         "rust",
         "c",
         "cpp",
+        "kotlin",
       },
     },
   },
