@@ -39,7 +39,9 @@ return {
             clangdFileStatus = true,
           },
         },
-        kotlin_language_server = {},
+        kotlin_language_server = {
+          mason = false,
+        },
       },
       setup = {
         clangd = function(_, opts)

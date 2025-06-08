@@ -1,9 +1,9 @@
 window-padding-color = background
 # window-padding-color = extend
-# maximize = true
-fullscreen = true
+maximize = true
+# fullscreen = true
 gtk-custom-css = "~/.config/ghostty/custom.css"
-theme = dark:nord,light:nord-light
+theme = dark:catppuccin-frappe,light:catppuccin-latte
 
 # macos-non-native-fullscreen = visible-menu
 macos-titlebar-style = hidden
@@ -24,7 +24,6 @@ macos-option-as-alt=true
 # keybind = command+eight=unbind
 # keybind = command+nine=unbind
 # keybind = command+zero=unbind
-#
 #
 # keybind = command+h=unbind
 # keybind = command+j=unbind

@@ -113,5 +113,6 @@
 
 # open mpv
 alt - g : open -a "Ghostty" 
-alt - b : open -a "Google Chrome"
-alt - v : open -a neovide
+alt - b : open -a "Zen"
+alt - i : open -a "IntelliJ IDEA"
+# alt - v : open -a neovide

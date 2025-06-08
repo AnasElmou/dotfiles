@@ -4,16 +4,11 @@ return {
   -- },
   {
     "shaunsingh/nord.nvim",
-    lazy = false, -- make sure we load this during startup if it is your main colorscheme
-    priority = 1000, -- make sure to load this before all the other start plugins
     opts = {},
     config = function()
       vim.g.nord_cursorline_transparent = true
       vim.g.nord_bold = true
       vim.g.nord_italic = true
-
-      -- load the colorscheme here
-      vim.cmd([[colorscheme nord]])
     end,
     --
     -- },
@@ -30,5 +25,16 @@ return {
   },
   {
     "sainnhe/edge",
+  },
+  {
+    "catppuccin/nvim",
+    priority = 1000,
+    lazy = false,
+    opts = {
+      flavour = "frappe",
+    },
+    config = function()
+      vim.cmd([[colorscheme catppuccin-frappe]])
+    end,
   },
 }

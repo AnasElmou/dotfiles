@@ -4,3 +4,5 @@
 
 -- vim.g.neovide_fullscreen = true
 vim.g.neovide_macos_simple_fullscreen = true
+vim.g.neovide_input_macos_option_key_is_meta = "both"
+vim.g.autoformat = false
